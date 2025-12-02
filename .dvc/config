@@ -1,0 +1,8 @@
+[core]
+    autostage = true
+    remote = gdrive_remote
+['remote "gdrive_remote"']
+    url = gdrive://0AEAOpOZA3naFUk9PVA
+    gdrive_use_service_account = true
+    gdrive_acknowledge_abuse = true
+    gdrive_service_account_json_file_path = C:\Users\sedki\Desktop\classification-pytorch\mlops-478310-35138baf9b6b.json
